@@ -5,6 +5,7 @@ using UnityEngine;
 [System.Serializable]
 public class ColorToPrefab
 {
+    public string Name = null;
     public Color color;
-    public GameObject prefab;
+    public GameObject prefab = null;
 }

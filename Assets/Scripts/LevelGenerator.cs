@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class LevelGenerator : MonoBehaviour
 {
-
+    [Header("Level Generator")]
+    [Tooltip("2D Texture to generate the level from.")]
     public Texture2D map = null;
+    [Tooltip("Specify what each color represents and spawns in the generator.")]
     public ColorToPrefab[] colorMappings;
 
     // Start is called before the first frame update
