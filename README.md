@@ -5,7 +5,7 @@ Builds a 2D world based on an PNG image.
 
 
 for example we have an image of ...
-![Image of Generated Map based on Image](/Assets/Textures/TestMap_01.png)
+![Image of Generated Map based on Image](/Assets/Images/Image_usedToGenLevel.PNG)
 
 
 This script will build a level based on our predefined color to items relationships
