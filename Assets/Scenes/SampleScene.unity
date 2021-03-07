@@ -172,7 +172,7 @@ MonoBehaviour:
     color: {r: 0, g: 0, b: 0, a: 1}
     prefab: {fileID: 2423327341016350030, guid: 94fdde2f8f06f81468478e4b95dd9d8f, type: 3}
   - Name: Player Spawn
-    color: {r: 0, g: 0, b: 1, a: 1}
+    color: {r: 0, g: 1, b: 1, a: 1}
     prefab: {fileID: 2423327341016350030, guid: 94fdde2f8f06f81468478e4b95dd9d8f, type: 3}
 --- !u!1 &519420028
 GameObject:
